@@ -5,3 +5,5 @@ Acest fisier a fost modificat de pe calculator
 
 
 oleg vrea ceai
+
+hai sa vedem
